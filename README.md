@@ -15,5 +15,3 @@ A Telegram Bot Made Using Python Which Can Short Links From Telegram Itself Usin
 
 - `SITE_API_URL` = Site API Url Of Desired Site (Mostly it will be https://site_link/api * Where Site_link is the shortner site link [For Example https://gplinks.in/api])
 
-### Credits
-- Credits Of This Repo Goes To [Mahesh](https://github.com/Mahesh0253) Bhai For His GPLinks Repo.
